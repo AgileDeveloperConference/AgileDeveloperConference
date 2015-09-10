@@ -1,4 +1,4 @@
-# Agile Dev Conference / 敏捷開發者年會
+# Agile Developer Conference / 敏捷開發者年會
 
 ## 前言: 經過半年的敏捷開發管理模式的洗禮(訓練)，然後呢?
 
